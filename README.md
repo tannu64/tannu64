@@ -4,7 +4,7 @@
 
 Electrical engineer turned automation builder. I design AI systems that survive production, not just demos.
 
-[![Top Rated](https://img.shields.io/badge/Top%20Rated-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Hourly Rate](https://img.shields.io/badge/Hourly%20Rate-%2420%2Fhr-2EA44F?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Available](https://img.shields.io/badge/Available-For%20Hire-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-hussain-277119196/)
+[![Top Rated](https://img.shields.io/badge/Top%20Rated-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Hourly Rate](https://img.shields.io/badge/Hourly%20Rate-%2420%2Fhr-2EA44F?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Available](https://img.shields.io/badge/Available-For%20Hire-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-hussain-277119196/) [![Email](https://img.shields.io/badge/Email-agapaitanveermou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agapaitanveermou@gmail.com)
 
 ---
 
@@ -30,7 +30,7 @@ I keep a research streak alongside the freelance grind. Physics-informed machine
 
 I'm tired of clients who want "AI agents" without understanding what autonomy actually costs in safety, observability, and execution control. I'm tired of proposals that sell magic. I'm tired of pretending that gluing an LLM to a Google Sheet counts as engineering. The honest version of this work is unglamorous. It's writing fallback logic. Monitoring token costs. Debugging a webhook that fires twice because someone skipped retry semantics.
 
-What also wears me down: clients who go silent for days, then expect a turnaround in hours. Infrastructure or third-party services that don't respond on time when something needs to be debugged now. Expectations stretched far past the time budget — promising a week of work in two days, then surprised when something breaks. The work has a real shape and a real cost; pretending otherwise doesn't make it ship faster.
+What also wears me down: clients who go silent for days, then expect a turnaround in hours. Infrastructure or third-party services that don't respond on time when something needs to be debugged now. Expectations stretched far past the time budget, promising a week of work in two days, then surprised when something breaks. The work has a real shape and a real cost; pretending otherwise doesn't make it ship faster.
 
 I'm a freelancer who refuses to be quiet about technical disagreements. I'll push back on a requirement that doesn't make sense. That has cost me work before. I'd rather lose a contract than ship something I know will break under load.
 
@@ -38,7 +38,7 @@ I'm a freelancer who refuses to be quiet about technical disagreements. I'll pus
 
 ## My approach
 
-I don't limit myself to specific stacks — I pick up whatever is needed and get it done fast. My focus is on solving real problems, not just using tools. I build scalable, reliable systems instead of isolated features, and I'm comfortable working in complex, undefined environments. I turn rough ideas into structured, production-ready workflows.
+I don't limit myself to specific stacks, I pick up whatever is needed and get it done fast. My focus is on solving real problems, not just using tools. I build scalable, reliable systems instead of isolated features, and I'm comfortable working in complex, undefined environments. I turn rough ideas into structured, production-ready workflows.
 
 I combine AI with engineering fundamentals like signal processing and control systems. My goal is to deliver practical solutions that actually work in real-world conditions.
 
@@ -77,7 +77,7 @@ I combine AI with engineering fundamentals like signal processing and control sy
 
 ### Automation and orchestration
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![OpenClaw](https://img.shields.io/badge/OpenClaw-1F6FEB?style=for-the-badge&logoColor=white) ![Hermes](https://img.shields.io/badge/Hermes%20Agents-7C3AED?style=for-the-badge&logoColor=white) ![Gumloop](https://img.shields.io/badge/Gumloop-FF6B35?style=for-the-badge&logoColor=white) ![Relay.app](https://img.shields.io/badge/Relay.app-2563EB?style=for-the-badge&logoColor=white) ![Dust](https://img.shields.io/badge/Dust-F4F1E1?style=for-the-badge&logoColor=black)
 
 ### Languages and frameworks
 
@@ -85,7 +85,11 @@ I combine AI with engineering fundamentals like signal processing and control sy
 
 ### AI and LLMs
 
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=for-the-badge&logo=anthropic&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white) ![Whisper](https://img.shields.io/badge/Whisper-74AA9C?style=for-the-badge&logo=openai&logoColor=white) ![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white) ![Vapi](https://img.shields.io/badge/Vapi-00D4AA?style=for-the-badge&logoColor=white)
+
+### Agent frameworks & runtimes (2026 stack)
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logoColor=white) ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=for-the-badge&logoColor=white) ![Mastra](https://img.shields.io/badge/Mastra-000000?style=for-the-badge&logoColor=white) ![Agno](https://img.shields.io/badge/Agno-3B82F6?style=for-the-badge&logoColor=white) ![Pydantic AI](https://img.shields.io/badge/Pydantic%20AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white) ![Composio](https://img.shields.io/badge/Composio-7C3AED?style=for-the-badge&logoColor=white) ![Letta](https://img.shields.io/badge/Letta%20(MemGPT)-10B981?style=for-the-badge&logoColor=white) ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
 ### Data and RAG
 
@@ -109,13 +113,13 @@ I combine AI with engineering fundamentals like signal processing and control sy
 
 | Project | Stack | Repo |
 |---|---|---|
-| **n8n Automation 2025 — AI Agent Suite** | n8n · Claude · OpenAI · LangChain · PostgreSQL · pgvector · Redis · FastAPI · Docker | [github.com/tannu64/n8n-automation-2025-AI-Agent-Suite](https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite) |
+| **n8n Automation 2025, AI Agent Suite** | n8n · Claude · OpenAI · LangChain · PostgreSQL · pgvector · Redis · FastAPI · Docker | [github.com/tannu64/n8n-automation-2025-AI-Agent-Suite](https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite) |
 
 ---
 
 ## What I'm building toward
 
-I want to move from contractor to system designer. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." OpenClaw and Hermes agents are already done — portfolio projects for both are live on my GitHub ([github.com/tannu64](https://github.com/tannu64)). I'm spending 2026 going deeper into Claude Code and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
+I want to move from contractor to system designer. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." OpenClaw and Hermes agents are already done, portfolio projects for both are live on my GitHub ([github.com/tannu64](https://github.com/tannu64)). I'm spending 2026 going deeper into Claude Code and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
 
 ---
 
@@ -128,14 +132,14 @@ If you want a yes-man with a no-code certificate, I'm not the guy. If you want s
 ### What I look for in a client
 
 - **Calm, clear communicators.** Walk me through your business requirements like an adult conversation, not a panic.
-- **Uses a project management tool.** Jira, ClickUp, or Linear — pick one. A shared source of truth beats Slack threads and lost context.
+- **Uses a project management tool.** Jira, ClickUp, or Linear, pick one. A shared source of truth beats Slack threads and lost context.
 - **Someone I can update daily.** Written status, plus Loom recordings when a workflow needs to be shown, not described.
-- **Patient with timezones, strict on responsiveness.** Don't stress about the exact hours I work — judge me on whether I reply in time and ship on time.
+- **Patient with timezones, strict on responsiveness.** Don't stress about the exact hours I work, judge me on whether I reply in time and ship on time.
 
 ### What I commit to
 
 - Systems that stay stable in production, not demos that crack on the first real load.
-- Results-oriented work — every workflow I ship has to do a job, not just look impressive in a screenshot.
+- Results-oriented work, every workflow I ship has to do a job, not just look impressive in a screenshot.
 
 ---
 
@@ -145,6 +149,7 @@ If you want a yes-man with a no-code certificate, I'm not the guy. If you want s
 
 - **Upwork:** [Top Rated profile](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
 - **LinkedIn:** [tanveer-hussain-277119196](https://www.linkedin.com/in/tanveer-hussain-277119196/)
-- **GitHub:** [tannu64](https://github.com/tannu64) — OpenClaw, Hermes, and portfolio projects
+- **GitHub:** [tannu64](https://github.com/tannu64), OpenClaw, Hermes, and portfolio projects
+- **Email:** [agapaitanveermou@gmail.com](mailto:agapaitanveermou@gmail.com)
 - **Hourly rate:** $20/hour
 - **Languages:** English
