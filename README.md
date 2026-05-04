@@ -4,13 +4,13 @@
 
 Electrical engineer turned automation builder. I design AI systems that survive production, not just demos.
 
-![Top Rated](https://img.shields.io/badge/Top%20Rated-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white) ![Projects Shipped](https://img.shields.io/badge/Projects%20Shipped-100%2B-blue?style=for-the-badge) ![Based In Pakistan](https://img.shields.io/badge/Based%20In-Pakistan-006A4E?style=for-the-badge)
+![Top Rated](https://img.shields.io/badge/Top%20Rated-Upwork-14A800?style=for-the-badge&logo=upwork&logoColor=white) ![Hourly Rate](https://img.shields.io/badge/Hourly%20Rate-%2420%2Fhr-2EA44F?style=for-the-badge) ![Available](https://img.shields.io/badge/Available-For%20Hire-blue?style=for-the-badge)
 
 ---
 
 ## Who I actually am
 
-I'm an electrical engineer who got pulled into AI automation, not the other way around. My degree is in electrical and communications from the Institute of Space Technology in Islamabad. I spent years on radar DSP and metamaterials research before n8n and language models showed up and quietly rewrote my career path. I don't say that with regret. I say it because it shaped how I think about every system I build.
+I'm an electrical engineer who got pulled into AI automation, not the other way around. My degree is in electrical and communications from the Institute of Space Technology. I spent years on radar DSP and metamaterials research before n8n and language models showed up and quietly rewrote my career path. I don't say that with regret. I say it because it shaped how I think about every system I build.
 
 Most automation people online treat n8n like a religion. I treat it like a tool. A useful one, often the right one, but a tool. When a client brings me a workflow problem, the first question I ask myself is whether the workflow should exist at all, not how to drag-and-drop it together. Half the automations people pay for are solving problems they manufactured by adopting the wrong stack three months earlier.
 
@@ -22,7 +22,7 @@ When I review an automation system, I look for where it will fail first. Tight c
 
 ## My working life
 
-I work nights. 3 PM to 4 AM, mostly. I have ADHD, so I built my own productivity system on top of n8n and Telegram to keep my brain on track. It's the most useful thing I've ever automated, and no client will ever pay me for it.
+I have ADHD, so I built my own productivity system on top of n8n and Telegram to keep my brain on track. It's the most useful thing I've ever automated, and no client will ever pay me for it.
 
 I keep a research streak alongside the freelance grind. Physics-informed machine learning, weather prediction with graph neural networks, synthetic image detection. I co-authored work on gradient field and spectral slope analysis for detecting AI-generated images. I applied to the iPSRS Erasmus Mundus photonics program because I haven't fully let go of the engineer who started all this. The freelancing pays the bills. The research is who I am when nobody's watching.
 
@@ -68,7 +68,7 @@ I'm a freelancer who refuses to be quiet about technical disagreements. I'll pus
 
 ### Automation and orchestration
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white) ![Make](https://img.shields.io/badge/Make-6D00CC?style=for-the-badge&logo=make&logoColor=white) ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
 ### Languages and frameworks
 
@@ -96,6 +96,14 @@ I'm a freelancer who refuses to be quiet about technical disagreements. I'll pus
 
 ---
 
+## Featured project
+
+| Project | Stack | Repo |
+|---|---|---|
+| **n8n Automation 2025 — AI Agent Suite** | n8n · Claude · OpenAI · LangChain · PostgreSQL · pgvector · Redis · FastAPI · Docker | [github.com/tannu64/n8n-automation-2025-AI-Agent-Suite](https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite) |
+
+---
+
 ## What I'm building toward
 
 I want to move from contractor to system designer. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." I'm spending 2026 expanding past n8n into Claude Code, OpenClaw, and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
@@ -104,9 +112,9 @@ I want to move from contractor to system designer. The kind of work where the qu
 
 ## How I work with clients
 
-Roman Urdu, English, Urdu, whichever lets us move faster. Concise. Direct. I'll tell you "this won't scale" before I start, not after the invoice. I offer a 72-hour free trial because I'd rather you fire me on day three than pay for a month of misaligned expectations.
+English. Concise. Direct. I'll tell you "this won't scale" before I start, not after the invoice. I offer a 72-hour free trial because I'd rather you fire me on day three than pay for a month of misaligned expectations.
 
-If you want a yes-man with a Zapier certificate, I'm not the guy. If you want someone who will tell you your RAG is garbage and then fix it, we'll get along.
+If you want a yes-man with a no-code certificate, I'm not the guy. If you want someone who will tell you your RAG is garbage and then fix it, we'll get along.
 
 ---
 
@@ -115,6 +123,6 @@ If you want a yes-man with a Zapier certificate, I'm not the guy. If you want so
 ## Connect
 
 - **Upwork:** [Top Rated profile](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
-- **LinkedIn:** [tanveer-hussain-277119196](https://linkedin.com/in/tanveer-hussain-277119196)
-- **Working hours:** 8 AM to 10 PM PKT (UTC+5)
-- **Languages:** English, Urdu,  Urdu
+- **LinkedIn:** [tanveer-hussain-277119196](https://www.linkedin.com/in/tanveer-hussain-277119196/)
+- **Hourly rate:** $20/hour
+- **Languages:** English
