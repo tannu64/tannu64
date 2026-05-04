@@ -30,7 +30,17 @@ I keep a research streak alongside the freelance grind. Physics-informed machine
 
 I'm tired of clients who want "AI agents" without understanding what autonomy actually costs in safety, observability, and execution control. I'm tired of proposals that sell magic. I'm tired of pretending that gluing an LLM to a Google Sheet counts as engineering. The honest version of this work is unglamorous. It's writing fallback logic. Monitoring token costs. Debugging a webhook that fires twice because someone skipped retry semantics.
 
+What also wears me down: clients who go silent for days, then expect a turnaround in hours. Infrastructure or third-party services that don't respond on time when something needs to be debugged now. Expectations stretched far past the time budget — promising a week of work in two days, then surprised when something breaks. The work has a real shape and a real cost; pretending otherwise doesn't make it ship faster.
+
 I'm a freelancer who refuses to be quiet about technical disagreements. I'll push back on a requirement that doesn't make sense. That has cost me work before. I'd rather lose a contract than ship something I know will break under load.
+
+---
+
+## My approach
+
+I don't limit myself to specific stacks — I pick up whatever is needed and get it done fast. My focus is on solving real problems, not just using tools. I build scalable, reliable systems instead of isolated features, and I'm comfortable working in complex, undefined environments. I turn rough ideas into structured, production-ready workflows.
+
+I combine AI with engineering fundamentals like signal processing and control systems. My goal is to deliver practical solutions that actually work in real-world conditions.
 
 ---
 
@@ -105,7 +115,7 @@ I'm a freelancer who refuses to be quiet about technical disagreements. I'll pus
 
 ## What I'm building toward
 
-I want to move from contractor to system designer. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." I'm spending 2026 expanding past n8n into Claude Code, OpenClaw, and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
+I want to move from contractor to system designer. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." OpenClaw and Hermes agents are already done — portfolio projects for both are live on my GitHub ([github.com/tannu64](https://github.com/tannu64)). I'm spending 2026 going deeper into Claude Code and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
 
 ---
 
@@ -115,6 +125,18 @@ English. Concise. Direct. I'll tell you "this won't scale" before I start, not a
 
 If you want a yes-man with a no-code certificate, I'm not the guy. If you want someone who will tell you your RAG is garbage and then fix it, we'll get along.
 
+### What I look for in a client
+
+- **Calm, clear communicators.** Walk me through your business requirements like an adult conversation, not a panic.
+- **Uses a project management tool.** Jira, ClickUp, or Linear — pick one. A shared source of truth beats Slack threads and lost context.
+- **Someone I can update daily.** Written status, plus Loom recordings when a workflow needs to be shown, not described.
+- **Patient with timezones, strict on responsiveness.** Don't stress about the exact hours I work — judge me on whether I reply in time and ship on time.
+
+### What I commit to
+
+- Systems that stay stable in production, not demos that crack on the first real load.
+- Results-oriented work — every workflow I ship has to do a job, not just look impressive in a screenshot.
+
 ---
 
 
@@ -123,5 +145,6 @@ If you want a yes-man with a no-code certificate, I'm not the guy. If you want s
 
 - **Upwork:** [Top Rated profile](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
 - **LinkedIn:** [tanveer-hussain-277119196](https://www.linkedin.com/in/tanveer-hussain-277119196/)
+- **GitHub:** [tannu64](https://github.com/tannu64) — OpenClaw, Hermes, and portfolio projects
 - **Hourly rate:** $20/hour
 - **Languages:** English
