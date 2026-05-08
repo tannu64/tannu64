@@ -1,5 +1,3 @@
-<img src="assets/tanveer-portrait.jpeg" alt="Tanveer Hussain" align="right" width="160" />
-
 # Tanveer Hussain
 
 **AI Automation Engineer · n8n Specialist · Distributed Systems Thinker**
