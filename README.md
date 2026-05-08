@@ -1,3 +1,5 @@
+<img src="assets/tanveer-portrait.jpeg" alt="Tanveer Hussain" align="right" width="180" />
+
 # Tanveer Hussain
 
 **AI Automation Engineer · n8n Specialist · Distributed Systems Thinker**
@@ -28,7 +30,17 @@ When I review an automation system, I look for where it will fail first. Tight c
 
 Deep focus is my strongest tool. I can lock into a complex system for hours and hold the entire architecture in my head, but ordinary work slips if I don't have a system underneath me, so I built my own productivity layer on top of n8n and Telegram. It's the most useful thing I've ever automated, and no client will ever pay me for it.
 
-I keep a research streak alongside the freelance grind. Physics-informed machine learning, weather prediction with graph neural networks, synthetic image detection. I co-authored work on gradient field and spectral slope analysis for detecting AI-generated images. I applied to the iPSRS Erasmus Mundus photonics program because I haven't fully let go of the engineer who started all this. The freelancing pays the bills. The research is who I am when nobody's watching.
+I keep a research streak alongside the freelance grind. Physics-informed machine learning, weather prediction with graph neural networks, synthetic image detection. I co-authored work on gradient field and spectral slope analysis for detecting AI-generated images. The freelancing pays the bills. The research is who I am when nobody's watching.
+
+## When the headphones go on
+
+<img src="assets/tanveer-headphones.jpeg" alt="Deep focus mode" align="right" width="300" />
+
+The deep-focus blocks are where the architectural decisions actually get made. Not in standups, not in proposals, not in scoping calls. When the headphones go on, the chat clients are muted, the day's other workflows are paused, and the only thing left is the system in front of me.
+
+A long-running RAG pipeline, a misbehaving webhook chain, a graph neural network that will not converge, these are not problems you solve in fifteen-minute slices between meetings. They get solved in three-hour silences. The clients who hire me for the hard problems usually already understand this. The ones who don't, learn it by day three of the trial.
+
+<br clear="right" />
 
 ## What's broken about this industry
 
@@ -81,7 +93,16 @@ I combine AI with engineering fundamentals like signal processing and control sy
 
 - Co-authored research on synthetic image detection using gradient field and spectral slope analysis
 - Working on physics-informed machine learning for atmospheric prediction with graph neural networks
-- Erasmus Mundus iPSRS photonics program applicant
+
+<br clear="right" />
+
+#### The desk where the other half of the work happens
+
+<img src="assets/research-workstation.jpeg" alt="Research workstation" align="left" width="380" />
+
+The freelance work pays the bills. The research runs on the other monitor. Atmospheric prediction with graph neural networks, terahertz metamaterial optimization, signal-detection problems left over from the radar work. None of this is on a deadline anyone is paying me to hit. All of it is what keeps me sharp on the engineer side, and most of the reason I see automation problems differently than someone who only ever did automation comes from this corner of the desk.
+
+<br clear="left" />
 
 ---
 
@@ -164,6 +185,18 @@ Every system I ship sits on a small set of unglamorous primitives. Docker for re
 | Project | Stack | Repo |
 |---|---|---|
 | **n8n Automation 2025, AI Agent Suite** | n8n · Claude · OpenAI · LangChain · PostgreSQL · pgvector · Redis · FastAPI · Docker | [github.com/tannu64/n8n-automation-2025-AI-Agent-Suite](https://github.com/tannu64/n8n-automation-2025-AI-Agent-Suite) |
+
+---
+
+## Side projects worth a name
+
+<img src="assets/openclaw-logo.png" alt="OpenClaw" align="right" width="220" />
+
+**OpenClaw** is the orchestration runtime I have been building when client work isn't filling the calendar. The brief: an agent runtime that treats workflow control as a first-class problem instead of a side effect of the LLM. Less drag-and-drop, more state machines and explicit edges. **Hermes Agents** is the companion library on top, the actual agent definitions, tool wiring, and observability layer. Both repos are live on my GitHub and both are still under heavy iteration.
+
+If you want to know where I think n8n's ceiling is, OpenClaw is what's on the other side of it. Most automation tools optimize for the first ten workflows you build. OpenClaw is being designed for the hundredth one, where state, retries, and recovery have to be first-class concerns rather than nodes you wire in by accident.
+
+<br clear="right" />
 
 ---
 
