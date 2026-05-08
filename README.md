@@ -1,4 +1,4 @@
-<img src="assets/tanveer-portrait.jpeg" alt="Tanveer Hussain" align="right" width="180" />
+<img src="assets/tanveer-portrait.jpeg" alt="Tanveer Hussain" align="right" width="160" />
 
 # Tanveer Hussain
 
@@ -34,7 +34,7 @@ I keep a research streak alongside the freelance grind. Physics-informed machine
 
 ## When the headphones go on
 
-<img src="assets/tanveer-headphones.jpeg" alt="Deep focus mode" align="right" width="300" />
+<img src="assets/tanveer-headphones.jpeg" alt="Deep focus mode" align="right" width="240" />
 
 The deep-focus blocks are where the architectural decisions actually get made. Not in standups, not in proposals, not in scoping calls. When the headphones go on, the chat clients are muted, the day's other workflows are paused, and the only thing left is the system in front of me.
 
