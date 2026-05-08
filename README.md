@@ -26,7 +26,7 @@ When I review an automation system, I look for where it will fail first. Tight c
 
 <img src="assets/tanveer-at-desk.jpeg" alt="At the workstation" align="right" width="380" />
 
-I have ADHD, so I built my own productivity system on top of n8n and Telegram to keep my brain on track. It's the most useful thing I've ever automated, and no client will ever pay me for it.
+Deep focus is my strongest tool. I can lock into a complex system for hours and hold the entire architecture in my head, but ordinary work slips if I don't have a system underneath me, so I built my own productivity layer on top of n8n and Telegram. It's the most useful thing I've ever automated, and no client will ever pay me for it.
 
 I keep a research streak alongside the freelance grind. Physics-informed machine learning, weather prediction with graph neural networks, synthetic image detection. I co-authored work on gradient field and spectral slope analysis for detecting AI-generated images. I applied to the iPSRS Erasmus Mundus photonics program because I haven't fully let go of the engineer who started all this. The freelancing pays the bills. The research is who I am when nobody's watching.
 
