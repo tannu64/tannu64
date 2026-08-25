@@ -1,6 +1,6 @@
 # Tanveer Hussain
 
-**AI Automation Engineer · n8n Specialist · Distributed Systems Thinker**
+**AI Automation Engineer · Agentic Ai Engineer · AI Developer · Distributed Systems Thinker**
 
 Electrical engineer turned automation builder. I design AI systems that survive production, not just demos.
 
