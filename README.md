@@ -44,16 +44,6 @@ I design before I build. Every project starts with the questions that decide whe
 | **Display estate monitoring system** | Real-time status polling of commercial displays over RS232 and IP, with a filterable dashboard, historical log viewer, and failed-command reporting | Grafana, RS232 and IP control |
 | **IoT fleet management system** | Final year group project: in-vehicle GPS units with GSM telemetry, speed monitoring, and anti-theft measures. My part was the route optimisation heuristic minimising fuel consumption and travel time under live location and traffic constraints | Arduino, GPS and GSM modules, Python, Google Maps API |
 
-### Mobile apps on the Play Store
-
-Mobile is part of the same end-to-end work, not a separate service. I build Android apps in Flutter and React Native and have published multiple apps to the Google Play Store, taking each one from first build through store release and updates. When a project needs a mobile app for the field and a web dashboard for the office, I build both sides and the API between them.
-
-| App | What it does | Built with | Downloads | Link |
-|---|---|---|---|---|
-| **[APP NAME 1]** | [One line on what the app does and who uses it] | Flutter | [DOWNLOADS] | [Play Store link] |
-| **[APP NAME 2]** | [One line on what the app does and who uses it] | React Native | [DOWNLOADS] | [Play Store link] |
-| **[APP NAME 3]** | [One line on what the app does and who uses it] | Flutter | [DOWNLOADS] | [Play Store link] |
-
 ### How I design a system
 
 - **Failure first.** Before writing a feature, I map where the system breaks: network loss, duplicate requests, a third-party outage, a bad deploy. The design has an answer for each one.
