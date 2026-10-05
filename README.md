@@ -1,12 +1,56 @@
 # Tanveer Hussain
 
-**AI Automation Engineer · Agentic Ai Engineer · AI Developer · Distributed Systems Thinker**
+**System Designer · End-to-End App Builder · AI Automation Engineer · Distributed Systems Thinker**
 
-Electrical engineer turned automation builder. I design AI systems that survive production, not just demos.
+Electrical engineer turned system designer. I take applications from a rough idea to a system running in production: architecture, database, backend, frontend, AI layer, deployment, and handover. Built to survive production, not just demos.
 
 [![Job Success Score](https://img.shields.io/badge/Job%20Success-100%25-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Hourly Rate](https://img.shields.io/badge/Hourly%20Rate-%2420%2Fhr-2EA44F?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Available](https://img.shields.io/badge/Available-For%20Hire-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-hussain-277119196/) [![Email](https://img.shields.io/badge/Email-agapaitanveermou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agapaitanveermou@gmail.com)
 
 
+
+---
+
+## System designer and end-to-end app builder
+
+This is the work I want to be hired for. A client brings a rough idea, a broken stack, or a requirements document, and I take it all the way to a system running in production. One engineer who owns the whole chain, so nothing falls into the gap between "the backend person" and "the frontend person."
+
+I design before I build. Every project starts with the questions that decide whether it survives: where does the data live, what happens when the same request arrives twice, what fails when a third-party service goes down, and who has to maintain this after I leave. The code comes after those answers, not before.
+
+### What end to end covers
+
+| Stage | What I deliver | What I use |
+|---|---|---|
+| **Requirements and scoping** | Rough ideas turned into a written scope, milestones, and acceptance criteria | Written specs, milestone plans, Jira, ClickUp, Linear |
+| **System architecture** | Service boundaries, data flow, and a design reviewed for where it will fail first | Architecture diagrams, queues, state machines |
+| **Data model** | Schemas designed for the product and for the frontend that consumes them | PostgreSQL, Supabase, Neon, libSQL with Drizzle, pgvector, InfluxDB |
+| **Backend and APIs** | REST APIs with validation, async processing, background jobs, and full API documentation | Python, FastAPI, Flask, Redis, TypeScript |
+| **Frontend and dashboards** | Web dashboards, desktop applications, and internal tools | Next.js, Electron, Streamlit, Grafana |
+| **AI and automation layer** | Agents, RAG, voice, and workflow automation, only where they earn their place | Claude, OpenAI, LangGraph, n8n, Retell AI, ElevenLabs |
+| **Integrations** | Third-party APIs, CRMs, commerce platforms, and messaging channels | Meta Graph API, Shopify, GoHighLevel, Twilio, Google Workspace |
+| **Deployment** | Containerised, reproducible deployments with CI | Docker, Railway, Vercel, GitHub Actions, Linux |
+| **Monitoring and handover** | Logging, cost tracking, documentation, and a clean handover to the client's team | Grafana, InfluxDB, written docs, Loom walkthroughs |
+
+### Applications I have built end to end
+
+| Application | What I built | Stack |
+|---|---|---|
+| **Desktop focus coaching app** | Technical lead from first build to production readiness: LLM-based focus scoring from screen and audio capture, conversational voice coach, drift detection, multi-goal engine, and dashboard | Electron, Next.js, libSQL with Drizzle, Win32 FFI, Retell AI |
+| **Instagram DM sales system** | Backend, database, dashboard, and Meta and Shopify integrations, delivered across six milestones | FastAPI on Railway, Neon PostgreSQL, Next.js, Meta Graph API, Shopify |
+| **Real estate listing distribution platform** | Live in production. Publishes listings across multiple property portals, each with a different page structure and anti-bot posture, with self-healing retries and around 95% completion without human intervention | Stagehand, Browserbase, n8n, PostgreSQL |
+| **Multi-tenant voice CRM** | Live 24/7. Inbound and outbound voice agents wired into lead qualification and pipeline routing, with response latency cut from 12 seconds to 1.8 seconds | GoHighLevel, Retell AI |
+| **Mobile app backend** | REST API and database schema consumed directly by a FlutterFlow mobile app, with scheduled API runs and full API documentation | FastAPI, Supabase |
+| **Online course platform** | Course platform built front to back | Next.js, Supabase, Bunny.net |
+| **Display estate monitoring system** | Real-time status polling of commercial displays over RS232 and IP, with a filterable dashboard, historical log viewer, and failed-command reporting | Grafana, RS232 and IP control |
+| **IoT fleet management system** | Final year group project: in-vehicle GPS units with GSM telemetry, speed monitoring, and anti-theft measures. My part was the route optimisation heuristic minimising fuel consumption and travel time under live location and traffic constraints | Arduino, GPS and GSM modules, Python, Google Maps API |
+
+### How I design a system
+
+- **Failure first.** Before writing a feature, I map where the system breaks: network loss, duplicate requests, a third-party outage, a bad deploy. The design has an answer for each one.
+- **Data model before screens.** The schema is the part that is hardest to change later, so it gets decided first and the interface is built on top of it.
+- **Safe to run twice.** Every webhook, background job, and sync step is built so that a retry does not create duplicates or corrupt records.
+- **Boring infrastructure.** PostgreSQL, Docker, queues, and CI. Proven parts underneath, so the interesting parts on top stay up.
+- **Milestones with acceptance criteria.** Work is split into milestones that can each be tested and accepted on their own, so the client always knows what is finished.
+- **Handover is part of the build.** Documentation, recorded walkthroughs, and a system the client's own team can run without me.
 
 ---
 
@@ -200,7 +244,7 @@ If you want to know where I think n8n's ceiling is, OpenClaw is what's on the ot
 
 ## Where I'm taking this next
 
-I want to move from contractor to system designer. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." OpenClaw and Hermes agents are already done, portfolio projects for both are live on my GitHub ([github.com/tannu64](https://github.com/tannu64)). I'm spending 2026 going deeper into Claude Code and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
+I'm moving further from contractor work into full system design ownership. The kind of work where the question isn't "build me a workflow" but "tell me why my stack will collapse at 10x scale and fix it." OpenClaw and Hermes agents are already done, portfolio projects for both are live on my GitHub ([github.com/tannu64](https://github.com/tannu64)). I'm spending 2026 going deeper into Claude Code and proper agent runtimes, because the next layer of this industry isn't drag-and-drop anymore. It's distributed systems thinking applied to language models, and most of the field hasn't caught up yet.
 
 ---
 
