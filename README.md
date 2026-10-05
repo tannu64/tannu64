@@ -1,10 +1,10 @@
 # Tanveer Hussain
 
-**System Designer · End-to-End App Builder · AI Automation Engineer · Distributed Systems Thinker**
+**System Designer · End-to-End App Builder · Mobile App Developer (Flutter, React Native) · AI Automation Engineer · Distributed Systems Thinker**
 
-Electrical engineer turned system designer. I take applications from a rough idea to a system running in production: architecture, database, backend, frontend, AI layer, deployment, and handover. Built to survive production, not just demos.
+Electrical engineer turned system designer. I take web and mobile applications from a rough idea to a system running in production: architecture, database, backend, frontend, mobile app, AI layer, deployment, and handover. Built to survive production, not just demos. Top Rated on Upwork with a 100% Job Success Score.
 
-[![Job Success Score](https://img.shields.io/badge/Job%20Success-100%25-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Hourly Rate](https://img.shields.io/badge/Hourly%20Rate-%2420%2Fhr-2EA44F?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Available](https://img.shields.io/badge/Available-For%20Hire-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-hussain-277119196/) [![Email](https://img.shields.io/badge/Email-agapaitanveermou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agapaitanveermou@gmail.com)
+[![Upwork Top Rated](https://img.shields.io/badge/Upwork-Top%20Rated-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Job Success Score](https://img.shields.io/badge/Job%20Success-100%25-14A800?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Hourly Rate](https://img.shields.io/badge/Hourly%20Rate-%2420%2Fhr-2EA44F?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![Available](https://img.shields.io/badge/Available-For%20Hire-blue?style=for-the-badge)](https://www.upwork.com/freelancers/~01a14d825a9bd8689d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanveer-hussain-277119196/) [![Email](https://img.shields.io/badge/Email-agapaitanveermou%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agapaitanveermou@gmail.com)
 
 
 
@@ -25,6 +25,7 @@ I design before I build. Every project starts with the questions that decide whe
 | **Data model** | Schemas designed for the product and for the frontend that consumes them | PostgreSQL, Supabase, Neon, libSQL with Drizzle, pgvector, InfluxDB |
 | **Backend and APIs** | REST APIs with validation, async processing, background jobs, and full API documentation | Python, FastAPI, Flask, Redis, TypeScript |
 | **Frontend and dashboards** | Web dashboards, desktop applications, and internal tools | Next.js, Electron, Streamlit, Grafana |
+| **Mobile apps** | Android apps built, released, and maintained on the Google Play Store | Flutter, React Native, Google Play Console |
 | **AI and automation layer** | Agents, RAG, voice, and workflow automation, only where they earn their place | Claude, OpenAI, LangGraph, n8n, Retell AI, ElevenLabs |
 | **Integrations** | Third-party APIs, CRMs, commerce platforms, and messaging channels | Meta Graph API, Shopify, GoHighLevel, Twilio, Google Workspace |
 | **Deployment** | Containerised, reproducible deployments with CI | Docker, Railway, Vercel, GitHub Actions, Linux |
@@ -43,6 +44,16 @@ I design before I build. Every project starts with the questions that decide whe
 | **Display estate monitoring system** | Real-time status polling of commercial displays over RS232 and IP, with a filterable dashboard, historical log viewer, and failed-command reporting | Grafana, RS232 and IP control |
 | **IoT fleet management system** | Final year group project: in-vehicle GPS units with GSM telemetry, speed monitoring, and anti-theft measures. My part was the route optimisation heuristic minimising fuel consumption and travel time under live location and traffic constraints | Arduino, GPS and GSM modules, Python, Google Maps API |
 
+### Mobile apps on the Play Store
+
+Mobile is part of the same end-to-end work, not a separate service. I build Android apps in Flutter and React Native and have published multiple apps to the Google Play Store, taking each one from first build through store release and updates. When a project needs a mobile app for the field and a web dashboard for the office, I build both sides and the API between them.
+
+| App | What it does | Built with | Downloads | Link |
+|---|---|---|---|---|
+| **[APP NAME 1]** | [One line on what the app does and who uses it] | Flutter | [DOWNLOADS] | [Play Store link] |
+| **[APP NAME 2]** | [One line on what the app does and who uses it] | React Native | [DOWNLOADS] | [Play Store link] |
+| **[APP NAME 3]** | [One line on what the app does and who uses it] | Flutter | [DOWNLOADS] | [Play Store link] |
+
 ### How I design a system
 
 - **Failure first.** Before writing a feature, I map where the system breaks: network loss, duplicate requests, a third-party outage, a bad deploy. The design has an answer for each one.
@@ -58,39 +69,33 @@ I design before I build. Every project starts with the questions that decide whe
 
 I'm an electrical and communications engineer from the Institute of Space Technology, Islamabad. Before AI automation became my work, I spent years on radar signal processing and metamaterials research, the kind of problems where one wrong assumption breaks the entire signal chain and there's no LLM to paper over the failure. That hardware-first discipline is the lens I bring to every software system I build today. Most automation builders learn the tool first and the engineering later. I came in the opposite direction, and it shows in the systems I ship.
 
-Most automation people online treat n8n like a religion. I treat it like a tool. A useful one, often the right one, but a tool. When a client brings me a workflow problem, the first question I ask myself is whether the workflow should exist at all, not how to drag-and-drop it together. Half the automations people pay for are solving problems they manufactured by adopting the wrong stack three months earlier.
+Many automation builders treat n8n as the answer to every problem. I treat it as a tool. A useful one, often the right one, but a tool. When a client brings me a workflow problem, the first question I ask myself is whether the workflow should exist at all, not how to drag-and-drop it together. Half the automations people pay for are solving problems they manufactured by adopting the wrong stack three months earlier.
 
 ## The uncomfortable truth about AI agents in production
 
-I think most AI agent demos on LinkedIn are theater. I've shipped enough RAG pipelines to know retrieval quality starts dying the moment your corpus crosses a few thousand documents and nobody set up reranking. I've watched voice synthesis costs blow up overnight because someone wired ElevenLabs into a loop with no async handling. I've seen n8n workflows with 80 nodes that should have been 12 nodes and a queue.
+Many AI agent demos look impressive on screen and fail in production. I've shipped enough RAG pipelines to know retrieval quality starts dying the moment your corpus crosses a few thousand documents and nobody set up reranking. I've watched voice synthesis costs blow up overnight because someone wired ElevenLabs into a loop with no async handling. I've seen n8n workflows with 80 nodes that should have been 12 nodes and a queue.
 
 When I review an automation system, I look for where it will fail first. Tight coupling between orchestration and compute. Webhooks with no idempotency. Retry storms from chained nodes that nobody traced. Embedding drift that goes unmonitored because there's no observability layer. Single points of failure dressed up as "automation." That critical eye is the thing my clients actually pay for, even when they think they're paying for an n8n workflow.
 
 ## How the work actually gets done
 
-<img src="assets/tanveer-at-desk.jpeg" alt="At the workstation" align="right" width="380" />
-
 Deep focus is my strongest tool. I can lock into a complex system for hours and hold the entire architecture in my head, but ordinary work slips if I don't have a system underneath me, so I built my own productivity layer on top of n8n and Telegram. It's the most useful thing I've ever automated, and no client will ever pay me for it.
 
 I keep a research streak alongside the freelance grind. Physics-informed machine learning, weather prediction with graph neural networks, synthetic image detection. I co-authored work on gradient field and spectral slope analysis for detecting AI-generated images. The freelancing pays the bills. The research is who I am when nobody's watching.
 
-## When the headphones go on
+## Where the hard problems get solved
 
-<img src="assets/tanveer-headphones.jpeg" alt="Deep focus mode" align="right" width="240" />
+The deep-focus blocks are where the architectural decisions actually get made. Not in standups, not in proposals, not in scoping calls. During a focus block the chat clients are muted, the day's other workflows are paused, and the only thing left is the system in front of me.
 
-The deep-focus blocks are where the architectural decisions actually get made. Not in standups, not in proposals, not in scoping calls. When the headphones go on, the chat clients are muted, the day's other workflows are paused, and the only thing left is the system in front of me.
+A long-running RAG pipeline, a misbehaving webhook chain, a graph neural network that will not converge, these are not problems you solve in fifteen-minute slices between meetings. They get solved in three-hour silences. The clients who hire me for the hard problems usually already understand this.
 
-A long-running RAG pipeline, a misbehaving webhook chain, a graph neural network that will not converge, these are not problems you solve in fifteen-minute slices between meetings. They get solved in three-hour silences. The clients who hire me for the hard problems usually already understand this. The ones who don't, learn it by day three of the trial.
+## What honest engineering looks like
 
-<br clear="right" />
+A lot of "AI agent" work is sold without a clear view of what autonomy costs in safety, observability, and execution control. The honest version of this work is unglamorous. It is writing fallback logic, monitoring token costs, and debugging a webhook that fires twice because retry semantics were skipped.
 
-## What's broken about this industry
+Good delivery also depends on realistic timelines and steady communication on both sides. The work has a real shape and a real cost, and planning for both is what makes it ship on time.
 
-I'm tired of clients who want "AI agents" without understanding what autonomy actually costs in safety, observability, and execution control. I'm tired of proposals that sell magic. I'm tired of pretending that gluing an LLM to a Google Sheet counts as engineering. The honest version of this work is unglamorous. It's writing fallback logic. Monitoring token costs. Debugging a webhook that fires twice because someone skipped retry semantics.
-
-What also wears me down: clients who go silent for days, then expect a turnaround in hours. Infrastructure or third-party services that don't respond on time when something needs to be debugged now. Expectations stretched far past the time budget, promising a week of work in two days, then surprised when something breaks. The work has a real shape and a real cost; pretending otherwise doesn't make it ship faster.
-
-I'm a freelancer who refuses to be quiet about technical disagreements. I'll push back on a requirement that doesn't make sense. That has cost me work before. I'd rather lose a contract than ship something I know will break under load.
+I raise technical disagreements early. If a requirement will not hold up, I say so and propose an alternative, because that conversation is cheaper at the start than after something breaks under load.
 
 ---
 
@@ -131,20 +136,12 @@ I combine AI with engineering fundamentals like signal processing and control sy
 
 ### Research and academic work
 
-<img src="assets/ist-research-showcase.jpeg" alt="IST research showcase" align="right" width="380" />
-
 - Co-authored research on synthetic image detection using gradient field and spectral slope analysis
 - Working on physics-informed machine learning for atmospheric prediction with graph neural networks
 
-<br clear="right" />
+#### Where the research fits
 
-#### The desk where the other half of the work happens
-
-<img src="assets/research-workstation.jpeg" alt="Research workstation" align="left" width="380" />
-
-The freelance work pays the bills. The research runs on the other monitor. Atmospheric prediction with graph neural networks, terahertz metamaterial optimization, signal-detection problems left over from the radar work. None of this is on a deadline anyone is paying me to hit. All of it is what keeps me sharp on the engineer side, and most of the reason I see automation problems differently than someone who only ever did automation comes from this corner of the desk.
-
-<br clear="left" />
+Research runs alongside the client work. Atmospheric prediction with graph neural networks, terahertz metamaterial optimization, signal-detection problems left over from the radar work. None of this is on a deadline anyone is paying me to hit. All of it is what keeps me sharp on the engineer side, and most of the reason I see automation problems differently than someone who only ever did automation comes from this side of my work.
 
 ---
 
@@ -157,6 +154,10 @@ The freelance work pays the bills. The research runs on the other monitor. Atmos
 ### Languages and frameworks
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
+
+### Mobile
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white) ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=googleplay&logoColor=white)
 
 ### AI and LLMs
 
@@ -232,13 +233,9 @@ Every system I ship sits on a small set of unglamorous primitives. Docker for re
 
 ## Side projects worth a name
 
-<img src="assets/openclaw-logo.png" alt="OpenClaw" align="right" width="220" />
-
 **OpenClaw** is the orchestration runtime I have been building when client work isn't filling the calendar. The brief: an agent runtime that treats workflow control as a first-class problem instead of a side effect of the LLM. Less drag-and-drop, more state machines and explicit edges. **Hermes Agents** is the companion library on top, the actual agent definitions, tool wiring, and observability layer. Both repos are live on my GitHub and both are still under heavy iteration.
 
 If you want to know where I think n8n's ceiling is, OpenClaw is what's on the other side of it. Most automation tools optimize for the first ten workflows you build. OpenClaw is being designed for the hundredth one, where state, retries, and recovery have to be first-class concerns rather than nodes you wire in by accident.
-
-<br clear="right" />
 
 ---
 
@@ -250,13 +247,13 @@ I'm moving further from contractor work into full system design ownership. The k
 
 ## How I work with clients
 
-English. Concise. Direct. I'll tell you "this won't scale" before I start, not after the invoice. I offer a 72-hour free trial because I'd rather you fire me on day three than pay for a month of misaligned expectations.
+English. Concise. Direct. I'll tell you "this won't scale" before I start, not after the invoice. I offer a 72-hour free trial so you can judge the fit before committing to a longer engagement.
 
-If you want a yes-man with a no-code certificate, I'm not the guy. If you want someone who will tell you your RAG is garbage and then fix it, we'll get along.
+If you want someone who will tell you plainly where your system is weak and then fix it, we will work well together.
 
 ### What I look for in a client
 
-- **Calm, clear communicators.** Walk me through your business requirements like an adult conversation, not a panic.
+- **Calm, clear communicators.** A clear walkthrough of the business requirements at the start saves weeks later.
 - **Uses a project management tool.** Jira, ClickUp, or Linear, pick one. A shared source of truth beats Slack threads and lost context.
 - **Someone I can update daily.** Written status, plus Loom recordings when a workflow needs to be shown, not described.
 - **Patient with timezones, strict on responsiveness.** Don't stress about the exact hours I work, judge me on whether I reply in time and ship on time.
@@ -270,7 +267,7 @@ If you want a yes-man with a no-code certificate, I'm not the guy. If you want s
 
 ## Connect
 
-- **Upwork:** [100% Job Success profile](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
+- **Upwork:** [Top Rated, 100% Job Success profile](https://www.upwork.com/freelancers/~01a14d825a9bd8689d)
 - **LinkedIn:** [tanveer-hussain-277119196](https://www.linkedin.com/in/tanveer-hussain-277119196/)
 - **GitHub:** [tannu64](https://github.com/tannu64), OpenClaw, Hermes, and portfolio projects
 - **Email:** [agapaitanveermou@gmail.com](mailto:agapaitanveermou@gmail.com)
